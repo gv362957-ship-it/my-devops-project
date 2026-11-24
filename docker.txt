@@ -1,0 +1,9 @@
+Docker is a containerization platform.
+
+It is used to:
+1. Build applications into containers.
+2. Package application dependencies.
+3. Run applications consistently.
+4. Deploy applications easily.
+5. Improve application portability.
+
